@@ -17,13 +17,13 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>你的app包名</string>
+                <string>com.hzlx.huofeng</string>
                 <key>bundle-version</key>
                 <string>1.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>你的app名称，下载安装时会弹窗展示</string>
+                <string>laiwanya</string>
             </dict>
         </dict>
     </array>
